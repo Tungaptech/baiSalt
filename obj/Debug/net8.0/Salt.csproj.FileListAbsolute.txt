@@ -1,0 +1,14 @@
+C:\Users\Dell\RiderProjects\Salt\Salt\bin\Debug\net8.0\Salt.exe
+C:\Users\Dell\RiderProjects\Salt\Salt\bin\Debug\net8.0\Salt.deps.json
+C:\Users\Dell\RiderProjects\Salt\Salt\bin\Debug\net8.0\Salt.runtimeconfig.json
+C:\Users\Dell\RiderProjects\Salt\Salt\bin\Debug\net8.0\Salt.dll
+C:\Users\Dell\RiderProjects\Salt\Salt\bin\Debug\net8.0\Salt.pdb
+C:\Users\Dell\RiderProjects\Salt\Salt\obj\Debug\net8.0\Salt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\RiderProjects\Salt\Salt\obj\Debug\net8.0\Salt.AssemblyInfoInputs.cache
+C:\Users\Dell\RiderProjects\Salt\Salt\obj\Debug\net8.0\Salt.AssemblyInfo.cs
+C:\Users\Dell\RiderProjects\Salt\Salt\obj\Debug\net8.0\Salt.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\Salt\Salt\obj\Debug\net8.0\Salt.dll
+C:\Users\Dell\RiderProjects\Salt\Salt\obj\Debug\net8.0\refint\Salt.dll
+C:\Users\Dell\RiderProjects\Salt\Salt\obj\Debug\net8.0\Salt.pdb
+C:\Users\Dell\RiderProjects\Salt\Salt\obj\Debug\net8.0\Salt.genruntimeconfig.cache
+C:\Users\Dell\RiderProjects\Salt\Salt\obj\Debug\net8.0\ref\Salt.dll
